@@ -162,8 +162,3 @@ Use Moodle (the online assignment submission software) to submit the following f
 assn_4, a Linux executable of your finished assignment, and
 all associated source code files (these can be called anything you want).
 There are four important requirements that your assignment must satisfy.
-
-Your executable file must be named exactly as shown above. The program will be run and marked electronically using a script file, so using a different name means the executable will not be found, and subsequently will not be marked.
-Your program must be compiled to run on remote.eos.ncsu.edu. If we cannot run your program, we will not be able to mark it, and we will be forced to assign you a grade of 0.
-Your program must produce output that exactly matches the format described in the print command section of this assignment. If it doesn't, it will not pass our automatic comparison to known, correct output.
-You must submit your source code with your executable prior to the submission deadline. If you do not submit your source code, we cannot MOSS it to check for code similarity. Because of this, any assignment that does not include source code will be assigned a grade of 0.
